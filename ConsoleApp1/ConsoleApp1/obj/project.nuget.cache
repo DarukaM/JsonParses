@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5v/7G4OoQKJqOpAlkRPeSaZDTnSHyP0bLS/FmLIJ5DI4Iz3qwC1aDg3ReSH3Su5jWiJXBA6wlNhkiuxWxSUIyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Work Pojects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\p-mate.daruka\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
